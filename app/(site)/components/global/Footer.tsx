@@ -12,7 +12,7 @@ export default function Footer() {
               target="_blank"
               rel="noreferrer noopener"
             >
-              Prepared by <span className="text-green-400">Victor Eke</span>
+              Prepared by <span className="text-green-400">Azizur Rahman</span>
             </a>
           </small>
         </div>
