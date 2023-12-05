@@ -7,7 +7,7 @@ import { schemaTypes } from "./schemas";
 export default defineConfig({
   name: "default",
   title: "test",
-  projectId: "1a142z34",
+  projectId: "v43a1ehn",
   dataset: "production",
   basePath: "/studio",
   plugins: [deskTool()],
